@@ -1,0 +1,4 @@
+C:\Lixo\ProjetoModeloDDD\ProjetoModeloDDD.Model\bin\Debug\ProjetoModeloDDD.Model.dll
+C:\Lixo\ProjetoModeloDDD\ProjetoModeloDDD.Model\bin\Debug\ProjetoModeloDDD.Model.pdb
+C:\Lixo\ProjetoModeloDDD\ProjetoModeloDDD.Model\obj\Debug\ProjetoModeloDDD.Model.dll
+C:\Lixo\ProjetoModeloDDD\ProjetoModeloDDD.Model\obj\Debug\ProjetoModeloDDD.Model.pdb
